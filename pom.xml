@@ -6,7 +6,12 @@
 
   <groupId>com.hand</groupId>
   <artifactId>www</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>test01</module>
+    <module>test02</module>
+  </modules>
 
   <name>www</name>
   <!-- FIXME change it to the project's website -->
