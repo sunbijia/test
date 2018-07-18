@@ -4,3 +4,4 @@ test01/target
 test01/test01.iml
 test02/target
 test02/test02.iml
+*.iml
